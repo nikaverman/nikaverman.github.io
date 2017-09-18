@@ -73,8 +73,8 @@ font-family: 'Indie Flower', cursive;
 	border-color: #C9AF75;
 	transition: 0.4s;
 }
-.main-down:visited {
-	color: white;
+.main-down:link {
+	color: #C9AF75;
 }
 
 
