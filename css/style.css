@@ -197,6 +197,9 @@ font-weight: bold;
 	text-decoration: none;
 	transition: 0.4s;
 }
+.modal-btn:link {
+	color: #1C140C;
+}
 @media (min-width: 0px) and (max-width: 767px) {
 	html {
 		font-size: 7px;
