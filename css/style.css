@@ -8,7 +8,7 @@ html {
 a:focus, a:active, a:visited {
 	outline: none;
 	text-decoration: none;
-	color: #C9AF75;
+	
 }
 .wrapper {
 	display:table-cell;
