@@ -8,7 +8,7 @@ html {
 a:focus, a:active, a:visited {
 	outline: none;
 	text-decoration: none;
-	/*color: #C9AF75;*/
+	color: #C9AF75;
 }
 .wrapper {
 	display:table-cell;
@@ -200,6 +200,7 @@ font-weight: bold;
 .modal-btn:link {
 	color: #1C140C;
 }
+
 @media (min-width: 0px) and (max-width: 767px) {
 	html {
 		font-size: 7px;
