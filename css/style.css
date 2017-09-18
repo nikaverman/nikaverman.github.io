@@ -8,7 +8,7 @@ html {
 a:focus, a:active, a:visited {
 	outline: none;
 	text-decoration: none;
-	color: #C9AF75;
+	/*color: #C9AF75;*/
 }
 .wrapper {
 	display:table-cell;
@@ -192,7 +192,7 @@ font-weight: bold;
 	background-color: #EFDBAF;
 }
 .modal-btn:hover {
-	background-color: #1C140C;
+	background-color: black;
 	color: #C9AF75;
 	text-decoration: none;
 	transition: 0.4s;
