@@ -8,6 +8,7 @@ html {
 a:focus, a:active, a:visited {
 	outline: none;
 	text-decoration: none;
+	color: #C9AF75;
 }
 .wrapper {
 	display:table-cell;
@@ -59,7 +60,7 @@ font-family: 'Indie Flower', cursive;
 	width: 50px;
 	left: 50%;
 	margin-left: -25px;
-	color: white;
+	color: #C9AF75;
 	z-index: 3;
 	border-radius: 50%;
 	border: 1px solid transparent;
@@ -73,12 +74,12 @@ font-family: 'Indie Flower', cursive;
 	transition: 0.4s;
 }
 .main-down:visited {
-	color: #C9AF75;
+	color: white;
 }
 
 
 .portfolio {
-	padding: 8rem 0px;
+	padding: 3rem 0px;
 	text-align: center;
 	background-color: #C9AF75;
 }
